@@ -67,3 +67,4 @@ My journey with Python started during school, where I explored libraries like Nu
 I'm always open to discussing technology, data science, and interesting projects.
 
 - **GitHub:** https://github.com/rittikka
+- **Linkedin:** https://www.linkedin.com/in/ritika-raj0402/
