@@ -1,6 +1,6 @@
 ## Hi, I'm Ritika Raj 👋
 
-I’m a **2nd-year B.Tech Computer Science Engineering student** with a strong interest in **Data Science, Python, Backend Development, and Machine Learning**.
+I’m a **3rd-year B.Tech Computer Science Engineering student** with a strong interest in **Data Science, Python, Backend Development, and Machine Learning**.
 
 My journey with Python started during school, where I explored libraries like NumPy and Pandas. Over the past two years of college, I've been building a solid foundation in computer science through practical projects, databases, algorithms, and problem-solving.
 
